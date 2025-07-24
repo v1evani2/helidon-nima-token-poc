@@ -21,8 +21,11 @@ $ java  -jar target/helidon-nima-token-poc-1.0-SNAPSHOT.jar
 You will see output as in below: 
 
 Jul 24, 2025 11:58:33 AM io.helidon.common.features.HelidonFeatures features
+
 INFO: Helidon SE 4.2.4 features: [WebServer]
+
 Jul 24, 2025 11:58:33 AM io.helidon.webserver.ServerListener startIt
+
 INFO: [0x59570c52] http://0.0.0.0:8080 bound for socket '@default'
 
 # Make a token request 
