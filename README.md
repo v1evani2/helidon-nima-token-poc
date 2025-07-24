@@ -1,4 +1,4 @@
-This is a sample OAuth token microservice built using [Helidon SE 4.2.4](https://helidon.io/docs/v4) with Java 21.
+This is a sample token microservice built using [Helidon SE 4.2.4](https://helidon.io/docs/v4) with Java 21.
 
 The API exposes a `POST /token` endpoint that issues JWT tokens signed using HS256. It demonstrates how to build lightweight, fast HTTP services using Helidon SE.
 
