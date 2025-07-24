@@ -10,6 +10,7 @@ The API exposes a `POST /token` endpoint that issues JWT tokens signed using HS2
 
 ## Prepare Redis with an OAuth client and token expiry config
 > HSET oauth_clients my-client-id my-secret
+> 
 > SET token_expiry 3600
 
 # Build
